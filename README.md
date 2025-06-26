@@ -1,0 +1,1 @@
+Streamz is a web application built with MERN stack , which let's you watch movies and TV shows.This repo contains the Frontend of the application.
